@@ -15,7 +15,7 @@ The purpose of this project is to automate testing for the website using Cypress
 
 ## Test Scripts
 
-### `login-test.cy`
+### `login-test.cy`[https://github.com/SwarupDeb/QA-Assignment/blob/main/login-test.cy.js]
 
 This script is used to perform various test cases on the login functionality of the website available at [https://sakshingp.github.io/assignment/login.html](https://sakshingp.github.io/assignment/login.html). The following test cases are covered:
 
@@ -26,7 +26,7 @@ This script is used to perform various test cases on the login functionality of 
 - Redirects to social media links
 - Does not remember user login when 'Remember Me' checkbox is unchecked
 
-### `transaction-test.cy`
+### `transaction-test.cy`[https://github.com/SwarupDeb/QA-Assignment/blob/main/transaction-test.cy.js]
 
 This script is used to perform various test cases on the transaction table functionality of the website available at [https://sakshingp.github.io/assignment/home.html](https://sakshingp.github.io/assignment/home.html). The following test case is covered:
 
