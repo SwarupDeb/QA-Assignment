@@ -8,7 +8,6 @@ This repository contains automated test scripts created using Cypress and JavaSc
 - [Test Scripts](#test-scripts)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
